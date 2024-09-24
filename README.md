@@ -8,6 +8,9 @@ My first experience with ESP32 involved reading real-time data from a DHT11 sens
 - Firebase
 - Qt app
 
+# version 1.0
+<img src="https://github.com/tienphuckx/Esp32-Firebase-Qt/blob/master/assets/ESP32-interfacing-with-dht11.png" />
+
 # Setup
 <img src="https://github.com/tienphuckx/Esp32-Firebase-Qt/blob/master/assets/setup2.jpg" />
 
