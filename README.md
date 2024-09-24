@@ -12,7 +12,7 @@ My first experience with ESP32 involved reading real-time data from a DHT11 sens
 <img src="https://github.com/tienphuckx/Esp32-Firebase-Qt/blob/master/assets/setup2.jpg" />
 
 # Output
-<img src="https://github.com/tienphuckx/Esp32-Firebase-Qt/blob/master/assets/output.jpg" />
+<img src="https://github.com/tienphuckx/Esp32-Firebase-Qt/blob/master/assets/output.png" />
 
 # Firebase
 <img src="https://github.com/tienphuckx/Esp32-Firebase-Qt/blob/master/assets/fbase.PNG" />
